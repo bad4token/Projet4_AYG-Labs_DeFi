@@ -1,0 +1,2 @@
+(this["webpackJsonptruffle-client"]=this["webpackJsonptruffle-client"]||[]).push([[48],{1339:function(t,e,s){"use strict";s.r(e),s.d(e,"default",(function(){return n}));var n={messages:{}}}}]);
+//# sourceMappingURL=48.67f2bd2e.chunk.js.map
