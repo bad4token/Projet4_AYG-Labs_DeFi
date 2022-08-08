@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Projet4_AYG-Labs_DeFi/static/css/main.a1fa0672.chunk.css",
-    "main.js": "/Projet4_AYG-Labs_DeFi/static/js/main.7d58d207.chunk.js",
-    "main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/main.7d58d207.chunk.js.map",
+    "main.js": "/Projet4_AYG-Labs_DeFi/static/js/main.f176ed44.chunk.js",
+    "main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/main.f176ed44.chunk.js.map",
     "runtime-main.js": "/Projet4_AYG-Labs_DeFi/static/js/runtime-main.925c7288.js",
     "runtime-main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/runtime-main.925c7288.js.map",
     "static/css/2.49dafac8.chunk.css": "/Projet4_AYG-Labs_DeFi/static/css/2.49dafac8.chunk.css",
@@ -143,13 +143,16 @@
     "static/media/ayg-nft_wonder-alyra_ban.46e85429.png": "/Projet4_AYG-Labs_DeFi/static/media/ayg-nft_wonder-alyra_ban.46e85429.png",
     "static/media/dashboard.7e96b930.jpg": "/Projet4_AYG-Labs_DeFi/static/media/dashboard.7e96b930.jpg",
     "static/media/fonts.css": "/Projet4_AYG-Labs_DeFi/static/media/inter-vietnamese-variable-wghtOnly-normal.eca83736.woff2",
-    "static/media/logoH.aab54e3f.png": "/Projet4_AYG-Labs_DeFi/static/media/logoH.aab54e3f.png"
+    "static/media/logoH.aab54e3f.png": "/Projet4_AYG-Labs_DeFi/static/media/logoH.aab54e3f.png",
+    "static/media/team_user1.68cdc451.png": "/Projet4_AYG-Labs_DeFi/static/media/team_user1.68cdc451.png",
+    "static/media/team_user2.8155450d.png": "/Projet4_AYG-Labs_DeFi/static/media/team_user2.8155450d.png",
+    "static/media/team_user3.6d1d027d.png": "/Projet4_AYG-Labs_DeFi/static/media/team_user3.6d1d027d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.925c7288.js",
     "static/css/2.49dafac8.chunk.css",
     "static/js/2.97373ebd.chunk.js",
     "static/css/main.a1fa0672.chunk.css",
-    "static/js/main.7d58d207.chunk.js"
+    "static/js/main.f176ed44.chunk.js"
   ]
 }
