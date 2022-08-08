@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Projet4_AYG-Labs_DeFi/static/css/main.a1fa0672.chunk.css",
-    "main.js": "/Projet4_AYG-Labs_DeFi/static/js/main.48e9a942.chunk.js",
-    "main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/main.48e9a942.chunk.js.map",
+    "main.js": "/Projet4_AYG-Labs_DeFi/static/js/main.bb60b0f5.chunk.js",
+    "main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/main.bb60b0f5.chunk.js.map",
     "runtime-main.js": "/Projet4_AYG-Labs_DeFi/static/js/runtime-main.925c7288.js",
     "runtime-main.js.map": "/Projet4_AYG-Labs_DeFi/static/js/runtime-main.925c7288.js.map",
     "static/css/2.49dafac8.chunk.css": "/Projet4_AYG-Labs_DeFi/static/css/2.49dafac8.chunk.css",
@@ -138,6 +138,9 @@
     "static/js/5.92e3d2bd.chunk.js.LICENSE.txt": "/Projet4_AYG-Labs_DeFi/static/js/5.92e3d2bd.chunk.js.LICENSE.txt",
     "static/js/6.a6037fc1.chunk.js.LICENSE.txt": "/Projet4_AYG-Labs_DeFi/static/js/6.a6037fc1.chunk.js.LICENSE.txt",
     "static/media/ayg-nft_ban800x200.d09cc693.png": "/Projet4_AYG-Labs_DeFi/static/media/ayg-nft_ban800x200.d09cc693.png",
+    "static/media/ayg-nft_captain-alyra_ban.54f8a404.png": "/Projet4_AYG-Labs_DeFi/static/media/ayg-nft_captain-alyra_ban.54f8a404.png",
+    "static/media/ayg-nft_super-alyra_ban.e9a2d09f.png": "/Projet4_AYG-Labs_DeFi/static/media/ayg-nft_super-alyra_ban.e9a2d09f.png",
+    "static/media/ayg-nft_wonder-alyra_ban.46e85429.png": "/Projet4_AYG-Labs_DeFi/static/media/ayg-nft_wonder-alyra_ban.46e85429.png",
     "static/media/dashboard.7e96b930.jpg": "/Projet4_AYG-Labs_DeFi/static/media/dashboard.7e96b930.jpg",
     "static/media/fonts.css": "/Projet4_AYG-Labs_DeFi/static/media/inter-vietnamese-variable-wghtOnly-normal.eca83736.woff2",
     "static/media/logoH.aab54e3f.png": "/Projet4_AYG-Labs_DeFi/static/media/logoH.aab54e3f.png"
@@ -147,6 +150,6 @@
     "static/css/2.49dafac8.chunk.css",
     "static/js/2.24459e7a.chunk.js",
     "static/css/main.a1fa0672.chunk.css",
-    "static/js/main.48e9a942.chunk.js"
+    "static/js/main.bb60b0f5.chunk.js"
   ]
 }
